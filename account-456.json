@@ -1,10 +1,8 @@
 {
-  "account": {
-    "name": "Emergency Fund",
+  "name": "Emergency Fund",
     "id": 456,
     "type": "SAVINGS",
-    "balance": 12459.23
-  },
+    "balance": 12459.23,
   "recentTransactions": [
     {
       "merchant": "Interest Payment",
