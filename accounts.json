@@ -9,20 +9,14 @@
         "url": "https://neilsheppard.github.io/mobile-app-test/account-123.json",
         "name": "Everyday Spending",
         "type": "CHECKING",
-        "balance": {
-          "amount": 1987.62,
-          "currency": "GBP"
-        }
+        "balance": 1987.62
       },
       {
         "id": 456,
         "url": "https://neilsheppard.github.io/mobile-app-test/account-456.json",
         "name": "Emergency Fund",
         "type": "SAVINGS",
-        "balance": {
-          "amount": 12459.23,
-          "currency": "GBP"
-        }
+        "balance": 12459.23
       }
     ]
   }
