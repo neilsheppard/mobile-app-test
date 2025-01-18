@@ -24,15 +24,5 @@
           "currency": "GBP"
         }
       }
-    ],
-    "monthlyInsights": {
-      "spending": {
-        "amount": 1425.23,
-        "currency": "GBP"
-      },
-      "largest": {
-        "amount": 3850.00,
-        "currency": "GBP"
-      }
-    }
+    ]
   }
