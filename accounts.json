@@ -6,7 +6,7 @@
     "accounts": [
       {
         "id": "account-123",
-        "url": "",
+        "url": "https://neilsheppard.github.io/mobile-app-test/account-123.json",
         "name": "Everyday Spending",
         "type": "CHECKING",
         "balance": {
@@ -16,7 +16,7 @@
       },
       {
         "id": "account-456",
-        "url": "",
+        "url": "https://neilsheppard.github.io/mobile-app-test/account-456.json",
         "name": "Emergency Fund",
         "type": "SAVINGS",
         "balance": {

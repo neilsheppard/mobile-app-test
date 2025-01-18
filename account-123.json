@@ -1,0 +1,38 @@
+{
+  "account": {
+    "name": "Everyday Spending",
+    "type": "CHECKING",
+    "balance": {
+      "amount": 1987.62,
+      "currency": "GBP"
+    }
+  },
+  "recentTransactions": [
+    {
+      "merchant": "Tesco",
+      "category": "Groceries",
+      "amount": {
+        "value": -65.52,
+        "currency": "GBP"
+      }
+    },
+    {
+      "merchant": "Monthly Salary",
+      "category": "Income",
+      "amount": {
+        "value": 3850.00,
+        "currency": "GBP"
+      }
+    }
+  ],
+  "spendingByCategory": [
+    {
+      "category": "Groceries",
+      "percentage": 13.31
+    },
+    {
+      "category": "Dining",
+      "percentage": 20.82
+    }
+  ]
+}
