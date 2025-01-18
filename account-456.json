@@ -1,28 +1,20 @@
 {
   "account": {
     "name": "Emergency Fund",
+    "id": 456,
     "type": "SAVINGS",
-    "balance": {
-      "amount": 12459.23,
-      "currency": "GBP"
-    }
+    "balance": 12459.23
   },
   "recentTransactions": [
     {
       "merchant": "Interest Payment",
       "category": "Interest",
-      "amount": {
-        "value": 15.62,
-        "currency": "GBP"
-      }
+      "amount": 15.62
     },
     {
       "merchant": "Transfer from Everyday Spending",
       "category": "Transfer",
-      "amount": {
-        "value": 500.00,
-        "currency": "GBP"
-      }
+      "amount": 500.00
     }
   ],
   "spendingByCategory": [
