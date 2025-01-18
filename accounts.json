@@ -1,8 +1,5 @@
 {
-    "totalBalance": {
-      "amount": 14446.85,
-      "currency": "GBP"
-    },
+    "totalBalance": 14446.85,
     "accounts": [
       {
         "id": 123,
