@@ -1,0 +1,38 @@
+{
+    "totalBalance": {
+      "amount": 14446.85,
+      "currency": "GBP"
+    },
+    "accounts": [
+      {
+        "id": "account-123",
+        "url": "",
+        "name": "Everyday Spending",
+        "type": "CHECKING",
+        "balance": {
+          "amount": 1987.62,
+          "currency": "GBP"
+        }
+      },
+      {
+        "id": "account-456",
+        "url": "",
+        "name": "Emergency Fund",
+        "type": "SAVINGS",
+        "balance": {
+          "amount": 12459.23,
+          "currency": "GBP"
+        }
+      }
+    ],
+    "monthlyInsights": {
+      "spending": {
+        "amount": 1425.23,
+        "currency": "GBP"
+      },
+      "largest": {
+        "amount": 3850.00,
+        "currency": "GBP"
+      }
+    }
+  }
