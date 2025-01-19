@@ -5,11 +5,13 @@
     "balance": 1987.62,
     "recentTransactions": [
         {
+            "id": 1,
             "merchant": "Tesco",
             "category": "Groceries",
             "amount": -65.52
         },
         {
+            "id": 2,
             "merchant": "Monthly Salary",
             "category": "Income",
             "amount": 3850

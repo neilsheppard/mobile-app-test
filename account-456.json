@@ -1,28 +1,30 @@
 {
-  "name": "Emergency Fund",
+    "name": "Emergency Fund",
     "id": 456,
     "type": "SAVINGS",
     "balance": 12459.23,
-  "recentTransactions": [
-    {
-      "merchant": "Interest Payment",
-      "category": "Interest",
-      "amount": 15.62
-    },
-    {
-      "merchant": "Transfer from Everyday Spending",
-      "category": "Transfer",
-      "amount": 500.00
-    }
-  ],
-  "spendingByCategory": [
-    {
-      "category": "Interest",
-      "percentage": 3.12
-    },
-    {
-      "category": "Transfers",
-      "percentage": 96.88
-    }
-  ]
+    "recentTransactions": [
+        {
+            "id": 1,
+            "merchant": "Interest Payment",
+            "category": "Interest",
+            "amount": 15.62
+        },
+        {
+            "id": 2,
+            "merchant": "Transfer from Everyday Spending",
+            "category": "Transfer",
+            "amount": 500
+        }
+    ],
+    "spendingByCategory": [
+        {
+            "category": "Interest",
+            "percentage": 3.12
+        },
+        {
+            "category": "Transfers",
+            "percentage": 96.88
+        }
+    ]
 }
